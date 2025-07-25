@@ -1,4 +1,4 @@
-**Semantic Segmentation: Brain Tumor Detection**
+**🧠🔬 Semantic Segmentation: Brain Tumor Detection 🩻**
 
 ---
 
